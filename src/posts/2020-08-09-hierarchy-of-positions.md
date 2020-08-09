@@ -1,3 +1,0 @@
-# Hierarcy of Positions
-
-Testing
